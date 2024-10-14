@@ -45,3 +45,7 @@ function calculatesFarePrice(start, destination) {
     console.log(calculatesFarePrice(34, 32));
     console.log(calculatesFarePrice(50, 58));
     console.log(calculatesFarePrice(34, 24)); 
+
+
+
+    
